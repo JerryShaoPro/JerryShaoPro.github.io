@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "中文分词调研"
+subtitle:   "中文分词原理介绍，分词工具介绍"
+date:       2018-05-18 11:13:00
+author:     "JerryShao"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - nlp
+    - 分词
+---
+
+#什么是中文分词
+#中文分词原理介绍
+#中文分词工具介绍

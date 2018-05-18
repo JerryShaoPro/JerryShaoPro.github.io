@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JerryShao Blog</title>
+    <description>关于代码、大数据、分布式、挖掘、互联网 | jerryshao，bigdata &amp; distributed system Software Engineer, @jerryshao 的个人博客。</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 18 May 2018 11:24:41 +0800</pubDate>
+    <lastBuildDate>Fri, 18 May 2018 11:24:41 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“Yeah It’s on. ”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;JerryShao 的 Blog诞生了，在此庆祝下我们可爱的小棉袄团团的到来，还有新的篇章即将开启。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 May 2018 01:30:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/05/10/helloworld/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/10/helloworld/</guid>
+        
+        <category>生活</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
